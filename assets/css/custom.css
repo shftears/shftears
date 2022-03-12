@@ -2,11 +2,13 @@ section#features {
 	padding-bottom: 200px;
 }
 
-#footer {
-	padding-top: 400px;
-}
-
 .header-hero-content h3.header-title {
 	color: #fe7e75;
 	text-shadow: 1px 1px 1px #743737;
+}
+
+@media only screen and (min-width: 1921px) {
+  .footer-area::before {
+    height: 530px;
+  }
 }
