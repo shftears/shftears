@@ -7,6 +7,10 @@ section#features {
 	text-shadow: 1px 1px 1px #743737;
 }
 
+.single-services .services-icon {
+	height: 100px;
+}
+
 @media only screen and (min-width: 1921px) {
   .footer-area::before {
     height: 530px;
